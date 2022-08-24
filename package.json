@@ -41,6 +41,6 @@
     ]
   },
   "devDependencies": {
-    "@osaguild/ipfs-uploader": "^0.1.0"
+    "@osaguild/ipfs-uploader": "^0.2.0"
   }
 }
