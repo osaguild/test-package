@@ -41,7 +41,7 @@
     ]
   },
   "devDependencies": {
-    "@osaguild/ipfs-uploader": "^0.2.0",
+    "@osaguild/ipfs-uploader": "^0.2.2",
     "axios": "^0.27.2",
     "dotenv": "^16.0.1"
   }
